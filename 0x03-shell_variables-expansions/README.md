@@ -1,1 +1,1 @@
-my read me for variable expansions
+# Shell init files, variables, and expansions
