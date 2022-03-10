@@ -1,0 +1,8 @@
+#!/bin?bash
+PATH=$PATH:/action
+:q!
+ls
+touch 2-path
+vi 2-path
+cd /
+ssh e1cb29660834@e1cb29660834.7f730221.alx-cod.online
